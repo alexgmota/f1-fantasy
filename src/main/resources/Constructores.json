@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "Mercedes",
+    "coste": 37.4,
+    "puntos": 264
+  },
+  {
+    "nombre": "Red Bull",
+    "coste": 26.0,
+    "puntos": 289
+  },
+  {
+    "nombre": "McLaren",
+    "coste": 18.7,
+    "puntos": 195
+  },
+  {
+    "nombre": "Ferrari",
+    "coste": 19.7,
+    "puntos": 178
+  },
+  {
+    "nombre": "Aston Martin",
+    "coste": 16.4,
+    "puntos": 85
+  },
+  {
+    "nombre": "Alpine",
+    "coste": 15.2,
+    "puntos": 83
+  },
+  {
+    "nombre": "AlphaTauri",
+    "coste": 12.6,
+    "puntos": 71
+  },
+  {
+    "nombre": "Alfa Romeo",
+    "coste": 9.2,
+    "puntos": 62
+  },
+  {
+    "nombre": "Williams",
+    "coste": 6.3,
+    "puntos": 36
+  },
+  {
+    "nombre": "Haas",
+    "coste": 6.1,
+    "puntos": 46
+  }
+]

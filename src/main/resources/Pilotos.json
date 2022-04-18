@@ -1,0 +1,102 @@
+[
+  {
+    "nombre": "L.Hamilton",
+    "coste": 33.3,
+    "puntos": 209
+  },
+  {
+    "nombre": "M.Verstapen",
+    "coste": 25.5,
+    "puntos": 217
+  },
+  {
+    "nombre": "V.Bottas",
+    "coste": 23.1,
+    "puntos": 85
+  },
+  {
+    "nombre": "S.Perez",
+    "coste": 18.0,
+    "puntos": 102
+  },
+  {
+    "nombre": "D.Ricciardo",
+    "coste": 16.1,
+    "puntos": 74
+  },
+  {
+    "nombre": "C.Leclerc",
+    "coste": 18.3,
+    "puntos": 103
+  },
+  {
+    "nombre": "S.Vettel",
+    "coste": 14.9,
+    "puntos": 48
+  },
+  {
+    "nombre": "F.Alonso",
+    "coste": 14.8,
+    "puntos": 28
+  },
+  {
+    "nombre": "C.Sainz",
+    "coste": 14.8,
+    "puntos": 85
+  },
+  {
+    "nombre": "L.Stroll",
+    "coste": 13.4,
+    "puntos": 62
+  },
+  {
+    "nombre": "L.Norris",
+    "coste": 13.9,
+    "puntos": 151
+  },
+  {
+    "nombre": "P.Gasly",
+    "coste": 11.5,
+    "puntos": 64
+  },
+  {
+    "nombre": "E.Ocon",
+    "coste": 10.5,
+    "puntos": 65
+  },
+  {
+    "nombre": "K.Raikkonen",
+    "coste": 9.4,
+    "puntos": 36
+  },
+  {
+    "nombre": "Y.Tsunoda",
+    "coste": 8.5,
+    "puntos": 12
+  },
+  {
+    "nombre": "Y.Giovinazzi",
+    "coste": 8.0,
+    "puntos": 36
+  },
+  {
+    "nombre": "N.Latifi",
+    "coste": 6.4,
+    "puntos": 6
+  },
+  {
+    "nombre": "G.Russell",
+    "coste": 6.2,
+    "puntos": 22
+  },
+  {
+    "nombre": "M.Schumacher",
+    "coste": 5.8,
+    "puntos": 40
+  },
+  {
+    "nombre": "N.Mazepin",
+    "coste": 5.3,
+    "puntos": 11
+  }
+]
